@@ -1,3 +1,8 @@
-Vídeos sobre GitHub
+** Vídeos sobre GitHub
 https://www.youtube.com/watch?v=OIE9r0J1iRk
 https://www.youtube.com/watch?v=8B_qtbdlLSU 
+
+** Confirmar el PATH y agregar una ruta para numpy
+import sys
+sys.path.append("C:\Python39\Lib\site-packages")
+print(sys.path)
